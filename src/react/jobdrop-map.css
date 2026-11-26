@@ -1,0 +1,11 @@
+.jd-origin-label {
+  pointer-events: none; white-space: nowrap;
+  background: #3F2010; color: #F4EBDA; border-radius: 8px; padding: 5px 10px;
+  font: 700 13px 'Cairo', 'Segoe UI', Tahoma, sans-serif;
+}
+.jd-popup { z-index: 3; }
+.jd-popup .maplibregl-popup-content {
+  background: #FBF5E8; color: #592D16; border: 1px solid #E0AC72; border-radius: 12px; padding: 14px;
+  font-family: 'Cairo', 'Segoe UI', Tahoma, sans-serif;
+}
+.jd-popup .maplibregl-popup-close-button { font-size: 18px; color: #592D16; padding: 2px 8px; right: 0; left: auto; }

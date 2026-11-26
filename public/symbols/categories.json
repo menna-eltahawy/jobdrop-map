@@ -1,0 +1,21 @@
+{
+  "_comment": "category code (sent by the API) -> sprite path relative to /symbols (no extension). REPLACE keys with the real controlled category list from the backend.",
+  "_default": "sym-default",
+  "_company": "sym-company",
+  "_origin": "sym-origin",
+  "categories": {
+    "tech": "avatars/hoodie",
+    "data": "avatars/analyst-f",
+    "engineering": "avatars/engineer",
+    "construction": "avatars/construction",
+    "logistics": "avatars/delivery-m",
+    "warehouse": "avatars/courier",
+    "admin": "avatars/office-f",
+    "management": "avatars/suit-m",
+    "finance": "avatars/suit-glasses",
+    "support": "avatars/support",
+    "consulting": "avatars/elder",
+    "aviation": "avatars/pilot",
+    "intern": "avatars/student"
+  }
+}

@@ -1,0 +1,1 @@
+{ "extends": "./tsconfig.json", "compilerOptions": { "baseUrl": ".", "paths": { "maplibre-gl": ["test/stubs/maplibre-gl.ts"] } }, "include": ["src","test"] }
